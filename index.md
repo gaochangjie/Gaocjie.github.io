@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
-去tm的🐕王顺
+去tm的狗王顺
 ## Header 2
 ### Header 3
 
